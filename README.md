@@ -1,7 +1,7 @@
-## Introduction
+# Introduction
 This is the Pytorch implementation for our SIGIR'25 paper: **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**.
 
-# Update
+## Update 🚀
 
 We have uploaded the data preprocessing code (in the `data_precess` folder) and supplemented the corresponding knowledge source data (in the `data` folder). Some files exceed the size limit for GitHub upload. Please download them from the Google Drive link below:
 
