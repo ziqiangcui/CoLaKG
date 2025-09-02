@@ -1,7 +1,7 @@
 # Introduction
 This is the Pytorch implementation for our SIGIR'25 paper: **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**.
 
-## Update 🚀
+## 🚀 Update
 **[2025-09-02]**
 We have fixed some broken files: mind_embeddings_simcse_kg_user.pt and mind_embeddings_simcse_kg.pt. Their sizes exceed the upload limit. Please find them in 🔗 [Google Drive Download Link](https://drive.google.com/drive/u/0/folders/14W3TpbO1k9XZ_13gilcdzwTAU5jn8Qel).
 
