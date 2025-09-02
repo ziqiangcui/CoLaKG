@@ -1,5 +1,5 @@
 # Introduction
-This is the Pytorch implementation for our SIGIR'25 paper: **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**.
+This is the Pytorch implementation for our SIGIR'25 paper CoLaKG: **Comprehending Knowledge Graphs with Large Language Models for Recommender Systems**.
 
 ## 🚀 Update
 **[2025-09-02]**
